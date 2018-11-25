@@ -1,0 +1,8 @@
+[package]
+name = "mkdirt"
+version = "0.1.0"
+authors = ["Adrien Burgun <adrien.burgun@orange.fr>"]
+
+[dependencies]
+colored = "1.6"
+rand = "0.6"
